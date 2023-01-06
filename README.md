@@ -43,9 +43,13 @@ cd /root/vddos-autosetup/
 ```
 python3 setup.py
 ```
-## How to install? (Step by step with Screenshots)
+## Screenshots
 
 ![Screenshots](https://cdn.discordapp.com/attachments/1060972499996790844/1061005011015970836/image.png)
+
+## Video
+
+<iframe src="https://streamable.com/e/ay14ah" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ## Developer
 
