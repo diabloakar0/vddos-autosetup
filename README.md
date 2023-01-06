@@ -49,7 +49,10 @@ python3 setup.py
 
 ## Video
 
-<iframe src="https://streamable.com/e/ay14ah" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/121287269/211092044-0fffe8b5-0978-4eec-a477-8e6500e517c8.mp4
+
+
 
 ## Developer
 
