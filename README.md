@@ -15,7 +15,15 @@ yum install python-pip
 ```
 
 ```
+yum install git
+```
+
+```
 pip install colorama
+```
+
+```
+git clone https://github.com/diabloakar0/vddos-autosetup.git
 ```
 
 ```
@@ -27,13 +35,21 @@ python3 setup.py
 ```
 
 ### PYTHON
-If your OS = centos
+If your OS = ubuntu/debian
 ```
 apt install python-pip
 ```
 
 ```
+apt install git
+```
+
+```
 pip install colorama
+```
+
+```
+git clone https://github.com/diabloakar0/vddos-autosetup.git
 ```
 
 ```
