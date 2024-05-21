@@ -34,7 +34,7 @@ cd /root/vddos-autosetup/
 python3 setup.py
 ```
 
-### PYTHON
+### UBUNTU/DEBIAN
 If your OS = ubuntu/debian
 ```
 apt install python-pip
